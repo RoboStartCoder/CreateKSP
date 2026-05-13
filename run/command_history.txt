@@ -1,0 +1,15 @@
+/give @s createksp:solid_truster
+/give @s createksp:solid_fuel_dust
+/effect clear
+/give @s createksp:solid_fuel_dust
+/sable assemble cube 1 77 68 50
+/sable remove @e
+/sable assemble cube 0 80 68 49
+/sable physics impulse @t linear 1 1 1
+/sable physics impulse @n linear 1 1 1
+/sable physics impulse @n linear 0 10 0
+/sable physics impulse @n angular 0 10 0
+/sable physics impulse @n angular 0 999999999 0
+/tp @s 0 0 0
+/sable physics impulse @n angular 0 999999999 0
+/give @s createksp:solid_fuel_dust

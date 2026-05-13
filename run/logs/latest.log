@@ -1,0 +1,211 @@
+[13мая2026 21:42:19.125] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeclientdev, --version, 21.1.229, --assetIndex, 17, --assetsDir, C:\\Users\\Programmer\\.gradle\\caches\\neoformruntime\\assets, --gameDir, ., --fml.fmlVersion, 4.0.42, --fml.mcVersion, 1.21.1, --fml.neoForgeVersion, 21.1.229, --fml.neoFormVersion, 20240808.144430]
+[13мая2026 21:42:19.128] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Eclipse Adoptium OpenJDK 64-Bit Server VM 21.0.11+10-LTS
+[13мая2026 21:42:19.130] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 11.0.5+main.901c6ea8 starting: java version 21.0.11 by Eclipse Adoptium; OS Windows 11 arch amd64 version 10.0
+[13мая2026 21:42:19.287] [main/INFO] [net.neoforged.fml.loading.ImmediateWindowHandler/]: Loading ImmediateWindowProvider fmlearlywindow
+[13мая2026 21:42:19.457] [main/INFO] [EARLYDISPLAY/]: Trying GL version 4.6
+[13мая2026 21:42:19.701] [main/INFO] [EARLYDISPLAY/]: Requested GL version 4.6 got version 4.6
+[13мая2026 21:42:19.821] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=union:/C:/Users/Programmer/.gradle/caches/modules-2/files-2.1/net.fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/2af2f021d8e02a0220dc27a7a72b4666d66d44ca/sponge-mixin-0.15.2+mixin.0.8.7.jar%23138!/ Service=ModLauncher Env=CLIENT
+[13мая2026 21:42:19.988] [pool-2-thread-1/INFO] [EARLYDISPLAY/]: GL info: NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2 GL version 4.6.0 NVIDIA 581.80, NVIDIA Corporation
+[13мая2026 21:42:20.855] [main/INFO] [net.neoforged.fml.loading.moddiscovery.locators.JarInJarDependencyLocator/]: Found 12 dependencies adding them to mods collection
+[13мая2026 21:42:20.857] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/]: 
+     Mod List:
+		Name Version (Mod Id)
+
+		Create 6.0.10 (create)
+		Create Aeronautics 1.2.1 (aeronautics)
+		Create Aeronautics 1.2.1 (aeronautics_bundled)
+		Create Offroad 1.2.1 (offroad)
+		Create Simulated 1.2.1 (simulated)
+		Create: Space Program 1.0-SNAPSHOT (createksp)
+		Flywheel 1.0.6 (flywheel)
+		Minecraft 1.21.1 (minecraft)
+		NeoForge 21.1.229 (neoforge)
+		Ponder 1.0.82+mc1.21.1 (ponder)
+		Sable 1.2.2 (sable)
+		Sable Companion 1.6.0 (sablecompanion)
+		Veil 4.0.0 (veil)
+[13мая2026 21:42:21.871] [main/INFO] [mixin/]: Compatibility level set to JAVA_21
+[13мая2026 21:42:21.919] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeclientdev' with arguments [--version, 21.1.229, --gameDir, ., --assetsDir, C:\Users\Programmer\.gradle\caches\neoformruntime\assets, --assetIndex, 17]
+[13мая2026 21:42:21.989] [main/WARN] [mixin/]: Reference map 'veil.refmap.json' for veil.command.mixins.json could not be read. If this is a development environment you can ignore this message
+[13мая2026 21:42:21.989] [main/WARN] [mixin/]: Reference map 'veil.refmap.json' for veil.debug.mixins.json could not be read. If this is a development environment you can ignore this message
+[13мая2026 21:42:21.990] [main/WARN] [mixin/]: Reference map 'veil.refmap.json' for veil.dynamicbuffer.mixins.json could not be read. If this is a development environment you can ignore this message
+[13мая2026 21:42:21.990] [main/WARN] [mixin/]: Reference map 'veil.refmap.json' for veil.fix.mixins.json could not be read. If this is a development environment you can ignore this message
+[13мая2026 21:42:21.991] [main/WARN] [mixin/]: Reference map 'veil.refmap.json' for veil.framebuffer.mixins.json could not be read. If this is a development environment you can ignore this message
+[13мая2026 21:42:21.991] [main/WARN] [mixin/]: Reference map 'veil.refmap.json' for veil.necromancer.mixins.json could not be read. If this is a development environment you can ignore this message
+[13мая2026 21:42:21.991] [main/WARN] [mixin/]: Reference map 'veil.refmap.json' for veil.network.mixins.json could not be read. If this is a development environment you can ignore this message
+[13мая2026 21:42:21.992] [main/WARN] [mixin/]: Reference map 'veil.refmap.json' for veil.performance.mixins.json could not be read. If this is a development environment you can ignore this message
+[13мая2026 21:42:21.993] [main/WARN] [mixin/]: Reference map 'veil.refmap.json' for veil.perspective.mixins.json could not be read. If this is a development environment you can ignore this message
+[13мая2026 21:42:21.993] [main/WARN] [mixin/]: Reference map 'veil.refmap.json' for veil.pipeline.mixins.json could not be read. If this is a development environment you can ignore this message
+[13мая2026 21:42:21.993] [main/WARN] [mixin/]: Reference map 'veil.refmap.json' for veil.quasar.mixins.json could not be read. If this is a development environment you can ignore this message
+[13мая2026 21:42:21.994] [main/WARN] [mixin/]: Reference map 'veil.refmap.json' for veil.registry.mixins.json could not be read. If this is a development environment you can ignore this message
+[13мая2026 21:42:21.995] [main/WARN] [mixin/]: Reference map 'veil.refmap.json' for veil.rendertype.mixins.json could not be read. If this is a development environment you can ignore this message
+[13мая2026 21:42:21.995] [main/WARN] [mixin/]: Reference map 'veil.refmap.json' for veil.resource.mixins.json could not be read. If this is a development environment you can ignore this message
+[13мая2026 21:42:21.995] [main/WARN] [mixin/]: Reference map 'veil.refmap.json' for veil.scheduler.mixins.json could not be read. If this is a development environment you can ignore this message
+[13мая2026 21:42:21.996] [main/WARN] [mixin/]: Reference map 'veil.refmap.json' for veil.shader.mixins.json could not be read. If this is a development environment you can ignore this message
+[13мая2026 21:42:21.997] [main/WARN] [mixin/]: Reference map 'veil.refmap.json' for veil.neoforge.mixins.json could not be read. If this is a development environment you can ignore this message
+[13мая2026 21:42:21.997] [main/WARN] [mixin/]: Reference map 'simulated.refmap.json' for simulated.mixins.json could not be read. If this is a development environment you can ignore this message
+[13мая2026 21:42:22.000] [main/WARN] [mixin/]: Reference map 'aeronautics.refmap.json' for aeronautics.mixins.json could not be read. If this is a development environment you can ignore this message
+[13мая2026 21:42:22.008] [main/WARN] [mixin/]: Reference map 'ponder.refmap.json' for ponder-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[13мая2026 21:42:22.018] [main/INFO] [dev.ryanhcode.sable.mixin.AbstractSableMixinPlugin/]: Using Vanilla renderer mixins
+[13мая2026 21:42:22.018] [main/INFO] [dev.ryanhcode.sable.mixin.AbstractSableMixinPlugin/]: Using Vanilla renderer mixins
+[13мая2026 21:42:22.019] [main/WARN] [mixin/]: Reference map 'offroad.refmap.json' for offroad.mixins.json could not be read. If this is a development environment you can ignore this message
+[13мая2026 21:42:22.418] [main/WARN] [mixin/]: Error loading class: net/irisshaders/iris/pipeline/PipelineManager (java.lang.ClassNotFoundException: net.irisshaders.iris.pipeline.PipelineManager)
+[13мая2026 21:42:22.419] [main/WARN] [mixin/]: @Mixin target net.irisshaders.iris.pipeline.PipelineManager was not found veil.neoforge.mixins.json:client.perspective.iris.PipelineManagerMixin from mod veil
+[13мая2026 21:42:22.480] [main/WARN] [mixin/]: Error loading class: mezz/jei/library/plugins/vanilla/ingredients/ItemStackListFactory (java.lang.ClassNotFoundException: mezz.jei.library.plugins.vanilla.ingredients.ItemStackListFactory)
+[13мая2026 21:42:23.213] [main/WARN] [mixin/]: Error loading class: org/jetbrains/annotations/ApiStatus$ScheduledForRemoval (java.lang.ClassNotFoundException: org.jetbrains.annotations.ApiStatus$ScheduledForRemoval)
+[13мая2026 21:42:23.298] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.3).
+[13мая2026 21:42:25.027] [Datafixer Bootstrap/INFO] [com.mojang.datafixers.DataFixerBuilder/]: 229 Datafixer optimizations took 283 milliseconds
+[13мая2026 21:42:31.014] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13мая2026 21:42:31.017] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13мая2026 21:42:31.020] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13мая2026 21:42:31.022] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13мая2026 21:42:31.023] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13мая2026 21:42:31.217] [Render thread/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/Programmer/IdeaProjects/untitled/build/moddev/artifacts/neoforge-21.1.229.jar%23189!/assets/.mcassetsroot' uses unexpected schema
+[13мая2026 21:42:31.218] [Render thread/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/Programmer/IdeaProjects/untitled/build/moddev/artifacts/neoforge-21.1.229.jar%23189!/data/.mcassetsroot' uses unexpected schema
+[13мая2026 21:42:31.246] [Render thread/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[13мая2026 21:42:31.254] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Setting user: Dev
+[13мая2026 21:42:31.361] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Backend library: LWJGL version 3.3.3+5
+[13мая2026 21:42:31.829] [modloading-worker-0/INFO] [Veil/]: Veil is initializing.
+[13мая2026 21:42:31.877] [modloading-worker-0/INFO] [net.neoforged.neoforge.common.NeoForgeMod/NEOFORGE-MOD]: NeoForge mod loading, version 21.1.229, for MC 1.21.1
+[13мая2026 21:42:32.111] [modloading-worker-0/INFO] [com.simibubi.create.Create/]: Create 6.0.10 initializing! Commit hash: ac0c444d9828da3453ae8cc65338e8de063286fb
+[13мая2026 21:42:34.245] [modloading-worker-0/INFO] [dev.ryanhcode.sable.Sable/]: Sable loaded!
+[13мая2026 21:42:34.263] [modloading-worker-0/WARN] [dev.ryanhcode.sable.Sable/]: NOTE: Sable is loaded with Flywheel. Sable contains extensive shader overrides and a full light-storage replacement. Expect this to cause compatibility issues. If issues arise, please report them to the Sable issue tracker (https://github.com/ryanhcode/sable/issues) instead of the Flywheel issue tracker.
+[13мая2026 21:42:36.550] [Render thread/INFO] [Veil/]: GL Debug supported
+[13мая2026 21:42:36.865] [Render thread/INFO] [net.neoforged.neoforge.gametest.GameTestHooks/]: Enabled Gametest Namespaces: [createksp]
+[13мая2026 21:42:37.263] [Render thread/INFO] [net.minecraft.server.packs.resources.ReloadableResourceManager/]: Reloading ResourceManager: vanilla, mod_resources, mod/veil, mod/createksp, mod/simulated, mod/aeronautics, mod/aeronautics_bundled, mod/sablecompanion, mod/flywheel, mod/ponder, mod/create, mod/sable, mod/offroad, mod/neoforge
+[13мая2026 21:42:37.281] [Worker-Main-3/INFO] [dev.pd.createksp.Createksp/]: HELLO FROM COMMON SETUP
+[13мая2026 21:42:37.281] [Worker-Main-3/INFO] [dev.pd.createksp.Createksp/]: DIRT BLOCK >> minecraft:dirt
+[13мая2026 21:42:37.281] [Worker-Main-3/INFO] [dev.pd.createksp.Createksp/]: The magic number is... 42
+[13мая2026 21:42:37.282] [Worker-Main-3/INFO] [dev.pd.createksp.Createksp/]: ITEM >> minecraft:iron_ingot
+[13мая2026 21:42:37.340] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [create] Starting version check at https://api.modrinth.com/updates/create/forge_updates.json?neoforge=only
+[13мая2026 21:42:37.343] [Worker-Main-9/INFO] [net.minecraft.client.gui.font.providers.UnihexProvider/]: Found unifont_all_no_pua-15.1.05.hex, loading
+[13мая2026 21:42:37.509] [Worker-Main-2/INFO] [dev.pd.createksp.Createksp/]: HELLO FROM CLIENT SETUP
+[13мая2026 21:42:37.509] [Worker-Main-2/INFO] [dev.pd.createksp.Createksp/]: MINECRAFT NAME >> Dev
+[13мая2026 21:42:37.784] [Worker-Main-7/INFO] [net.minecraft.client.gui.font.providers.UnihexProvider/]: Found unifont_jp_patch-15.1.05.hex, loading
+[13мая2026 21:42:38.228] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [create] Found status: OUTDATED Current: 6.0.10 Target: 6.0.10+mc1.21.1
+[13мая2026 21:42:38.959] [Worker-Main-3/WARN] [net.minecraft.client.resources.model.BlockStateModelLoader/]: Exception loading blockstate definition: 'createksp:blockstates/solid_truster.json' missing model for variant: 'createksp:solid_truster#'
+[13мая2026 21:42:38.961] [Worker-Main-3/WARN] [net.minecraft.client.resources.model.ModelBakery/]: Unable to load model: 'minecraft:block' referenced from: simulated:block/rope_connector/block_horizontal: java.io.FileNotFoundException: minecraft:models/block.json
+[13мая2026 21:42:39.485] [Worker-Main-3/WARN] [net.minecraft.client.resources.model.ModelBakery/]: Unable to load model: 'createksp:item/solid_fuel_dust' referenced from: createksp:item/solid_fuel_dust: java.io.FileNotFoundException: createksp:models/item/solid_fuel_dust.json
+[13мая2026 21:42:39.493] [Worker-Main-3/WARN] [net.minecraft.client.resources.model.ModelBakery/]: Unable to load model: 'createksp:item/solid_truster' referenced from: createksp:item/solid_truster: java.io.FileNotFoundException: createksp:models/item/solid_truster.json
+[13мая2026 21:42:40.769] [Render thread/INFO] [Veil/]: Loaded 0 shader modifications
+[13мая2026 21:42:40.984] [Render thread/INFO] [Veil/]: Loaded 29 shaders from: pinwheel/shaders/program
+[13мая2026 21:42:41.131] [Worker-Main-3/INFO] [PonderIndex/]: Registering Ponder Scenes took 112.9 ms
+[13мая2026 21:42:41.135] [Worker-Main-3/INFO] [PonderIndex/]: Registering Ponder Tags took 4.487 ms
+[13мая2026 21:42:41.285] [Render thread/WARN] [net.minecraft.client.sounds.SoundEngine/]: Missing sound for event: minecraft:item.goat_horn.play
+[13мая2026 21:42:41.285] [Render thread/WARN] [net.minecraft.client.sounds.SoundEngine/]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[13мая2026 21:42:41.335] [Render thread/INFO] [com.mojang.blaze3d.audio.Library/]: OpenAL initialized on device OpenAL Soft on Voicemeeter Input (VB-Audio Voicemeeter VAIO)
+[13мая2026 21:42:41.335] [Render thread/INFO] [net.minecraft.client.sounds.SoundEngine/SOUNDS]: Sound engine started
+[13мая2026 21:42:41.484] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 2048x1024x4 minecraft:textures/atlas/blocks.png-atlas
+[13мая2026 21:42:41.502] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[13мая2026 21:42:41.502] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[13мая2026 21:42:41.502] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[13мая2026 21:42:41.503] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 2048x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[13мая2026 21:42:41.509] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[13мая2026 21:42:41.509] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[13мая2026 21:42:41.509] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[13мая2026 21:42:41.509] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[13мая2026 21:42:41.574] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x512x0 minecraft:textures/atlas/particles.png-atlas
+[13мая2026 21:42:41.576] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x0 minecraft:textures/atlas/paintings.png-atlas
+[13мая2026 21:42:41.576] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[13мая2026 21:42:41.577] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 64x64x0 minecraft:textures/atlas/map_decorations.png-atlas
+[13мая2026 21:42:41.577] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 1024x512x0 minecraft:textures/atlas/gui.png-atlas
+[13мая2026 21:42:41.602] [Render thread/WARN] [net.minecraft.client.renderer.ShaderInstance/]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[13мая2026 21:42:41.663] [Render thread/INFO] [Veil/]: Loaded 3 framebuffers
+[13мая2026 21:42:41.681] [Render thread/INFO] [Veil/]: Loaded 6 post pipelines
+[13мая2026 21:42:41.687] [Render thread/INFO] [Veil/]: Loaded 4 render types
+[13мая2026 21:42:41.687] [Render thread/INFO] [Veil/]: Enabled bloom pipeline
+[13мая2026 21:42:41.688] [Render thread/INFO] [Veil/]: Loaded 0 quasar particles
+[13мая2026 21:42:41.688] [Render thread/INFO] [Veil/]: Loaded 0 templates
+[13мая2026 21:42:41.688] [Render thread/INFO] [Veil/]: Loaded 0 modules
+[13мая2026 21:42:41.719] [Render thread/INFO] [flywheel/backend/shaders/]: Loaded 77 shader sources in 23,242 ms
+[13мая2026 21:42:41.744] [Render thread/INFO] [com.simibubi.create.Create/]: Loaded 58 train hat configurations.
+[13мая2026 21:42:41.746] [Render thread/INFO] [net.neoforged.neoforge.client.entity.animation.json.AnimationLoader/]: Loaded 0 entity animations
+[13мая2026 21:42:41.891] [Render thread/INFO] [Veil/]: Compiled 58 vanilla shaders in 241.5 ms
+[13мая2026 21:42:42.769] [Render thread/INFO] [Veil/]: Finished uploading vanilla shaders
+[13мая2026 21:43:11.530] [Render thread/INFO] [com.simibubi.create.Create/]: Created 157 recipes which will be injected into the game
+[13мая2026 21:43:11.536] [Render thread/INFO] [com.simibubi.create.Create/]: Created 0 tags which will be injected into the game
+[13мая2026 21:43:12.415] [Render thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 2941 recipes
+[13мая2026 21:43:12.576] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 2644 advancements
+[13мая2026 21:43:13.741] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Starting integrated minecraft server version 1.21.1
+[13мая2026 21:43:13.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[13мая2026 21:43:14.057] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Assigned physics scene ID 0 to minecraft:overworld
+[13мая2026 21:43:14.381] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Assigned physics scene ID 1 to minecraft:the_nether
+[13мая2026 21:43:15.206] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Assigned physics scene ID 2 to minecraft:the_end
+[13мая2026 21:43:15.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[13мая2026 21:43:15.450] [progressListener/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13мая2026 21:43:15.562] [progressListener/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 315 ms
+[13мая2026 21:43:15.563] [Server thread/INFO] [net.neoforged.neoforge.server.permission.PermissionAPI/]: Successfully initialized permission handler neoforge:default_handler
+[13мая2026 21:43:15.563] [Server thread/INFO] [dev.pd.createksp.Createksp/]: HELLO from server starting
+[13мая2026 21:43:15.664] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Changing view distance to 12, from 10
+[13мая2026 21:43:15.664] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Changing simulation distance to 12, from 0
+[13мая2026 21:43:15.766] [Render thread/INFO] [dev.ryanhcode.sable.Sable/]: Adding local UDP server channel future
+[13мая2026 21:43:15.773] [Render thread/WARN] [io.netty.bootstrap.Bootstrap/]: Unknown channel option 'SO_BROADCAST' for channel '[id: 0xd9624d63]'
+[13мая2026 21:43:15.782] [Netty Server IO #1/INFO] [dev.ryanhcode.sable.Sable/]: Server UDP channel active
+[13мая2026 21:43:15.806] [Render thread/INFO] [dev.ryanhcode.sable.Sable/]: Starting local client UDP channel future
+[13мая2026 21:43:15.808] [Netty Local Client IO #1/INFO] [dev.ryanhcode.sable.Sable/]: Client UDP channel active
+[13мая2026 21:43:16.040] [Render thread/INFO] [com.simibubi.create.Create/]: Created 157 recipes which will be injected into the game
+[13мая2026 21:43:16.042] [Render thread/INFO] [com.simibubi.create.Create/]: Created 0 tags which will be injected into the game
+[13мая2026 21:43:16.318] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dev[local:E:00030139] logged in with entity id 62 at (70.1506191784419, 71.03236457124191, 49.49804675855941)
+[13мая2026 21:43:16.323] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Beginning attempted authentication with player Dev
+[13мая2026 21:43:16.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dev joined the game
+[13мая2026 21:43:17.249] [Render thread/INFO] [flywheel/]: Started 6 worker threads
+[13мая2026 21:43:17.327] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 23 advancements
+[13мая2026 21:43:17.656] [Render thread/INFO] [Veil/]: Multi-Bind supported, using core
+[13мая2026 21:43:22.753] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Cow['Cow'/548, l='ServerLevel[New World]', x=288.03, y=68.00, z=42.03]
+[13мая2026 21:43:22.754] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Pig['Pig'/549, l='ServerLevel[New World]', x=288.05, y=68.00, z=54.95]
+[13мая2026 21:43:22.754] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Cow['Cow'/550, l='ServerLevel[New World]', x=288.05, y=67.00, z=62.62]
+[13мая2026 21:43:22.754] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Pig['Pig'/555, l='ServerLevel[New World]', x=288.03, y=70.00, z=198.57]
+[13мая2026 21:43:22.754] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Pig['Pig'/556, l='ServerLevel[New World]', x=288.12, y=70.00, z=199.50]
+[13мая2026 21:43:50.920] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] No sub-levels found
+[13мая2026 21:43:55.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dev: Gave 1 [item.createksp.solid_fuel_dust] to Dev]
+[13мая2026 21:43:55.302] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Gave 1 [item.createksp.solid_fuel_dust] to Dev
+[13мая2026 21:44:01.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dev: Gave 1 [item.createksp.solid_fuel_dust] to Dev]
+[13мая2026 21:44:01.018] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Gave 1 [item.createksp.solid_fuel_dust] to Dev
+[13мая2026 21:44:04.516] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Saving and pausing game...
+[13мая2026 21:44:04.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[13мая2026 21:44:04.531] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[New World]'/minecraft:overworld
+[13мая2026 21:44:04.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[13мая2026 21:44:04.557] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[New World]'/minecraft:the_nether
+[13мая2026 21:44:04.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[13мая2026 21:44:04.558] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[New World]'/minecraft:the_end
+[13мая2026 21:44:08.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dev: Gave 1 [item.createksp.solid_fuel_dust] to Dev]
+[13мая2026 21:44:08.152] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Gave 1 [item.createksp.solid_fuel_dust] to Dev
+[13мая2026 21:44:10.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dev: Gave 1 [item.createksp.solid_fuel_dust] to Dev]
+[13мая2026 21:44:10.851] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Gave 1 [item.createksp.solid_fuel_dust] to Dev
+[13мая2026 21:44:13.666] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Saving and pausing game...
+[13мая2026 21:44:13.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[13мая2026 21:44:13.674] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[New World]'/minecraft:overworld
+[13мая2026 21:44:13.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[13мая2026 21:44:13.694] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[New World]'/minecraft:the_nether
+[13мая2026 21:44:13.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[13мая2026 21:44:13.695] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[New World]'/minecraft:the_end
+[13мая2026 21:54:46.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dev has made the advancement [Applied Kinematics]
+[13мая2026 21:54:46.825] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Dev has made the advancement [Applied Kinematics]
+[13мая2026 21:54:46.841] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 34 advancements
+[13мая2026 21:54:49.657] [Render thread/ERROR] [dev.ryanhcode.sable.Sable/]: Received a sub-level movement packet for a non-existent sub-level
+[13мая2026 21:55:18.918] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Saving and pausing game...
+[13мая2026 21:55:18.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[13мая2026 21:55:18.928] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[New World]'/minecraft:overworld
+[13мая2026 21:55:18.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[13мая2026 21:55:18.942] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[New World]'/minecraft:the_nether
+[13мая2026 21:55:18.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[13мая2026 21:55:18.943] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[New World]'/minecraft:the_end
+[13мая2026 21:55:19.383] [Netty Local Client IO #1/INFO] [dev.ryanhcode.sable.Sable/]: Client UDP channel inactive
+[13мая2026 21:55:19.384] [Netty Local Client IO #1/INFO] [dev.ryanhcode.sable.Sable/]: Closed UDP channel!
+[13мая2026 21:55:19.456] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dev lost connection: Disconnected
+[13мая2026 21:55:19.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dev left the game
+[13мая2026 21:55:19.467] [Server thread/INFO] [net.minecraft.server.network.ServerCommonPacketListenerImpl/]: Stopping singleplayer server as player logged out
+[13мая2026 21:55:19.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[13мая2026 21:55:19.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[13мая2026 21:55:19.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[13мая2026 21:55:20.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[13мая2026 21:55:20.179] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[New World]'/minecraft:overworld
+[13мая2026 21:55:20.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[13мая2026 21:55:20.869] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[New World]'/minecraft:the_nether
+[13мая2026 21:55:20.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[13мая2026 21:55:20.875] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[New World]'/minecraft:the_end
+[13мая2026 21:55:20.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (New World): All chunks are saved
+[13мая2026 21:55:20.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13мая2026 21:55:20.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13мая2026 21:55:20.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[13мая2026 21:56:27.224] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Stopping!
